@@ -2,7 +2,7 @@
 My name is Nina and I'm studying at Nackademin to become a Frontend Developer :)
 
 
-* This is my and my study-friends first work with  only HTML and CSS 
+🌈This is me and my class mate first prodject together when working on just HTML and CSS 
 https://github.com/Chen44A/Examinerande-projektarbete.git
 
 
