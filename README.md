@@ -11,5 +11,5 @@ https://github.com/Chen44A/Examinerande-projektarbete.git
 
 
 
-Uploading Video to animated GIF converter - Google Chrome 2024-01-12 14-03-29.mp4…
+
 
