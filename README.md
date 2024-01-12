@@ -1,2 +1,2 @@
 # Hi there!
-I'm studying to become a Frontend Developer at Nackademin 
+My Name is Nina and I'm studying at Nackademin to become a Frontend Developer :)
