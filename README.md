@@ -2,7 +2,14 @@
 My name is Nina and I'm studying at Nackademin to become a Frontend Developer :)
 
 
-🌈This is my and my classmate's(@Chen44A) project when we were tasked with creating a website using only HTML and CSS.
+🌈"This project is the result of collaboration between me and my classmate, @Chen44A, where we were assigned the task of creating a website using only HTML and CSS."
+
+
+
+
+
+
+
 https://github.com/Chen44A/Examinerande-projektarbete.git
 _________________________________________________________________________________________________________________________
 
