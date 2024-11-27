@@ -10,10 +10,10 @@ My name is Nina and I'm studying at Nackademin to become a Frontend Developer :)
 
 
 
-https://github.com/Chen44A/Examinerande-projektarbete.git
+https://github.com/NinaNorby/WebbShop.git  
 _________________________________________________________________________________________________________________________
 
-![Screenshot 2024-01-12 143410](https://github.com/NinaNorby/NinaNorby/assets/143781101/6e2835bd-bec2-4827-9c7e-c0335449b793)
+![Screenshot 2024-01-12 143410](https://github.com/NinaNorby/WebbShop.git)
 
 
 
