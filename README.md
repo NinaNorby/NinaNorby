@@ -5,8 +5,8 @@
  
 🌱I am currently learning Typescript
 _________________________________________________________________________________________________________________________
-## My recent project i Javascript 4 (typescript, TDD)
-### in progress...
+## My recent project i Javascript 4 (Typescript, TDD)
+#### in progress...
 ![latest project in javascript 4](https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png "start page")
 
 _________________________________________________________________________________________________________________________
