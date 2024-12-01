@@ -4,7 +4,9 @@
 👩‍🎓I am currently studying to become a Frontend Developer at Nackademin, with expected graduation in May 2025.
  
 🌱I am currently learning Typescript
-
+_________________________________________________________________________________________________________________________
+## My recent project i Javascript 4 (typescript, TDD)
+<img src ="https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png" width="256 />
 _________________________________________________________________________________________________________________________
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nina Norby) 
