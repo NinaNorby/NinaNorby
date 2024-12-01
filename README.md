@@ -7,7 +7,7 @@
 _________________________________________________________________________________________________________________________
 ## My recent project i Javascript 4 (typescript, TDD)
 ### in progress...
-![test](https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png "Test")
+![latest project in javascript 4](https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png "start page")
 
 _________________________________________________________________________________________________________________________
 ## 🌐 Socials:
