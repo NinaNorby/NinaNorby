@@ -6,7 +6,7 @@
 🌱I am currently learning Typescript
 _________________________________________________________________________________________________________________________
 ## My recent project i Javascript 4 (typescript, TDD)
-![latest project]([/path/to/image.png ](https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png)"startpage").
+![test](https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png "Test")
 
 _________________________________________________________________________________________________________________________
 ## 🌐 Socials:
