@@ -6,7 +6,8 @@
 🌱I am currently learning Typescript
 _________________________________________________________________________________________________________________________
 ## My recent project i Javascript 4 (typescript, TDD)
-<img src ="https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png" width="256 />
+![latest project]([/path/to/image.png ](https://i.postimg.cc/rFpYzkm6/Screenshot-2024-12-01-140909.png)"startpage").
+
 _________________________________________________________________________________________________________________________
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nina Norby) 
