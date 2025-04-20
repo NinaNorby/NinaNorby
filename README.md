@@ -1,16 +1,16 @@
+# 💻 Frontend Developer passionate about user-friendly solutions👋
 
-# Hi there, my name is Nina!
+🎓 Studying Frontend Development at Nackademin, graduating May 2025 
 
-👩‍🎓I am currently studying to become a Frontend Developer at Nackademin, with expected graduation in May 2025.
- 
-🌱I am currently learning Typescript
+🔭 Currently doing my internship at a bank working with JavaScript, TypeScript, React and Material UI
+  
 _________________________________________________________________________________________________________________________
 ## My recent project i Javascript 4 (Typescript, TDD)
 #### in progress...
 ![latest project in javascript 4](https://i.postimg.cc/bJBkJjs9/image.png "start page")
 
 _________________________________________________________________________________________________________________________
-## 🌐 Socials:
+## 🌐 connect with me:
 [![Linkedin](https://i.sstatic.net/gVE0j.png) My Profile on Linked in](https://www.linkedin.com/in/nina-norby-4ab170146/)
 
 # 💻 Tech Stack:
